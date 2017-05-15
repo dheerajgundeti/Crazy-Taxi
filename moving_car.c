@@ -1,6 +1,6 @@
-/***********
+/************
 author - Dheeraj Gundeti
-***********/
+************/
 #include <graphics.h>
 
 #include <dos.h>
